@@ -2,6 +2,6 @@
 Beautiful Concept of Matrix for Android
 
 
-Download apl:
+Download apk:
 https://cutt.ly/KyYbOPO
 
