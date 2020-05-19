@@ -1,9 +1,6 @@
 /build
 ### Android template
 # Built application files
-*.apk
-*.ap_
-*.aab
 
 # Files for the ART/Dalvik VM
 *.dex
