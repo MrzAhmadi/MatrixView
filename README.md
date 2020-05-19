@@ -1,3 +1,3 @@
 # MatrixView
-A sample of beautiful MatrixView for Anddroid
+A Beautiful Concept of MatrixView for Anddroid
 
