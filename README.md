@@ -1,3 +1,3 @@
 # MatrixView
-A Beautiful Concept of Matrix for Anddroid
+Beautiful Concept of Matrix for Android
 
